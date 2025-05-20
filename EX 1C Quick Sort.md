@@ -5,11 +5,11 @@ To write a python program to implement quick sort using tha last element as pivo
 
 ## Algorithm:
 
-1. Divide the array into two halves.
-2. Recursively sort the left half.
-3. Recursively sort the right half.
-4. Merge the two sorted halves into a single sorted array.
-5. Return the merged array.
+1. Choose a pivot element from the array.
+2. Partition the array into two sub-arrays: elements less than pivot and elements greater than pivot.
+3. Recursively apply Quick Sort to the left sub-array.
+4. Recursively apply Quick Sort to the right sub-array.
+5. Combine the sorted sub-arrays and pivot to form the final sorted array..
 
 ## Program:
 ```
