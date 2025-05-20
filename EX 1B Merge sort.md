@@ -59,7 +59,7 @@ print(inp_arr)
 ```
 
 ## Output:
-![output](mergesort.png)
+![mergesort](https://github.com/user-attachments/assets/61bdb711-556a-44b3-a083-bcec3a10e03c)
 
 ## Result:
 The program successfully sorts the first half of the given array using merge sort. where only the first half is sorted, and the second half remains unchanged.
